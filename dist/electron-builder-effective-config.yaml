@@ -1,0 +1,5 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.cbDev.HLTV
+electronVersion: 2.0.4
