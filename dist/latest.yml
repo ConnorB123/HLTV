@@ -1,0 +1,9 @@
+version: 1.0.0
+files:
+  - url: hltv_desktop-setup-1.0.0.exe
+    sha512: ECROt03Yg27MRpZPS+8unrLmCy17C/NhD25tB3K+kheyu3hEVFWrqpG9DvODa/zkU9ulYL6CSEuARqb07HYHuQ==
+    size: 36171781
+path: hltv_desktop-setup-1.0.0.exe
+sha512: ECROt03Yg27MRpZPS+8unrLmCy17C/NhD25tB3K+kheyu3hEVFWrqpG9DvODa/zkU9ulYL6CSEuARqb07HYHuQ==
+sha2: 9d62c72ae898ba4da8f9d4c5c0f7f3400f0e269e6b8a199704162e89b0d92105
+releaseDate: '2018-07-09T03:46:40.506Z'
