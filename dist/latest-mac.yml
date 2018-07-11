@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: hltv_desktop-1.0.0-mac.zip
+    sha512: 7WB36AX/nfaEY65WYJStRnmK7qmCU7v1B2cjW7yAOrvCSZLULNQPxfwzmbmIfdOT1kgAFTv2iwk+haiZQiq8hQ==
+  - url: hltv_desktop-1.0.0.dmg
+    sha512: D1SbAXfA74JHM720kwSInOrPM8Ys1wwp3bb1cacVoLq74tlGjXCEKktj/Zyf5b+DYbNQvtOtfMLgivtAnH59XQ==
+    size: 48170199
+path: hltv_desktop-1.0.0-mac.zip
+sha512: 7WB36AX/nfaEY65WYJStRnmK7qmCU7v1B2cjW7yAOrvCSZLULNQPxfwzmbmIfdOT1kgAFTv2iwk+haiZQiq8hQ==
+releaseDate: '2018-07-11T04:12:17.536Z'

@@ -45,6 +45,6 @@
     <key>NSHumanReadableCopyright</key>
     <string>Copyright © 2018 cbDev</string>
     <key>AsarIntegrity</key>
-    <string>{"checksums":{"app.asar":"jCLt85jebAZMpbq/XBpJOi5u5IqUekOu1Hds6v5NUrBVu36e8djWYdqJgizy92IGQvrckzETVxQdDOCJFNe81w==","electron.asar":"y9qfCFjT8jP3Ejf1R1NmXYrb5dLwysCLhzPhwKEY38NIgJxoPrZpfeksozzfFkIC0ek/Vo10WUwDBvLUGSO+Qw=="}}</string>
+    <string>{"checksums":{"app.asar":"u8m7ff0Rp4fhVPj+4rQSq08zXH07tbV3DvKJzKidsiHzRW5L5BHyj3x+/7N8qb/wQS+vsrvdFDwQvKSVp6VvfA==","electron.asar":"y9qfCFjT8jP3Ejf1R1NmXYrb5dLwysCLhzPhwKEY38NIgJxoPrZpfeksozzfFkIC0ek/Vo10WUwDBvLUGSO+Qw=="}}</string>
   </dict>
 </plist>
