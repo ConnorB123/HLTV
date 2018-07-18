@@ -7,7 +7,7 @@ function createWindow () {
   win = new BrowserWindow({
     width: 800, 
     height: 600,
-    titleBarStyle: 'hiddenInset',
+    //titleBarStyle: 'hiddenInset',
     title: 'HLTV',
     icon: 'assets/icon.png'})
 
