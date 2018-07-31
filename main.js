@@ -1,5 +1,9 @@
 const {app, BrowserWindow} = require('electron')
 
+const express = require('express');
+const { HLTV } = require('hltv')
+
+
 require('electron-reload')(__dirname);
 
 function createWindow () {
